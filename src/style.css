@@ -1,0 +1,15 @@
+h1,
+h2,
+p {
+  text-align: center;
+}
+h2,strong{
+  color: yellow;
+}
+
+a{
+  display: block;
+  text-decoration: unset;
+  text-align: center;
+  font-size: 30px;
+}
